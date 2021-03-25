@@ -8,8 +8,6 @@ A set of values that are required by some of the underlying code and could chang
 enum SqMod
 ```
 
-----
-
 | Name | Type | Description |
 |---|---|---|
 | **Version** | `integer` | Plug-in version |
