@@ -4,4 +4,4 @@ layout: default
 heading: Anish
 ---
 # Links
-[SqMod Wiki] (./sqmod)
+[Custom SqMod Wiki](./sqmod)
