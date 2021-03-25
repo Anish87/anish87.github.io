@@ -7,7 +7,7 @@ enum SqMod
 ```
 
 | Name | Type | Description |
-| --- | --- | --- |
+|:-----|:-----|:------------|
 | **Version** | `integer` | Plug-in version |
 | **Success** | `integer` | Success value. Possible value is `1` |
 | **Failure** | `integer` | Failure value. Possible value is `0` |
