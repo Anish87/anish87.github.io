@@ -5,11 +5,11 @@ Move all occurrences of a slot with a speciffic function to the back so they rec
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.TailFunc
 ```
 * **Signature**:
-```D
+```js
 (callback);
 (callback, one);
 (callback, one, append);

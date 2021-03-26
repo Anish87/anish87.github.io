@@ -4,7 +4,7 @@ Several sample reasons why an entity is being created. These identifiers will be
 
 # Specifications
 
-```D
+```js
 enum SqCreate
 ```
 

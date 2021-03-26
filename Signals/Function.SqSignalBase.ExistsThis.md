@@ -5,11 +5,11 @@ Check if a slot with a speciffic environment was bound to the signal.
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.ExistsThis
 ```
 * **Signature**:
-```D
+```js
 (environment);
 ```
 * **Parameters**:

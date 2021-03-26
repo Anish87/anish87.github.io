@@ -5,11 +5,11 @@ Remove all occurrences of a speciffic slot.
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.Eliminate
 ```
 * **Signature**:
-```D
+```js
 (callback);
 (environment, callback);
 ```

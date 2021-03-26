@@ -5,11 +5,11 @@ Move all occurrences of a slot with a speciffic environment to the back so they 
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.TailThis
 ```
 * **Signature**:
-```D
+```js
 (environment);
 (environment, one);
 (environment, one, append);

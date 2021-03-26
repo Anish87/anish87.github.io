@@ -5,11 +5,11 @@ Move all occurrences of a speciffic slot to the front so they receive the signal
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.Lead
 ```
 * **Signature**:
-```D
+```js
 (callback);
 (environment, callback);
 (environment, callback, one);

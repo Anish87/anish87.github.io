@@ -5,11 +5,11 @@ Count all occurrences of a speciffic slot.
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.Count
 ```
 * **Signature**:
-```D
+```js
 (callback);
 (environment, callback);
 ```

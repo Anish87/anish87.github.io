@@ -4,7 +4,7 @@ Several sample reasons why an entity is being destroyed. These identifiers will 
 
 # Specifications
 
-```D
+```js
 enum SqDestroy
 ```
 

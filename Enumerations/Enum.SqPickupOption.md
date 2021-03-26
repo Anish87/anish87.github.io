@@ -4,7 +4,7 @@ Identifies pickup options that can be modified.
 
 # Specifications
 
-```D
+```js
 enum SqPickupOption
 ```
 

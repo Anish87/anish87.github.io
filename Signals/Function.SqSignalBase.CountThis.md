@@ -5,11 +5,11 @@ Count all occurrences of a speciffic environment.
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.CountThis
 ```
 * **Signature**:
-```D
+```js
 (environment);
 ```
 * **Parameters**:

@@ -4,7 +4,7 @@ Identifies the player state in regards to vehicles.
 
 # Specifications
 
-```D
+```js
 enum SqPlayerVehicle
 ```
 

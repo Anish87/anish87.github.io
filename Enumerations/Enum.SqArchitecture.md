@@ -4,8 +4,8 @@ Used to identify the architecture that the plug-in currently running on. See [Sq
 
 # Specifications
 
-```D
-enum SqArchitectre
+```js
+enum SqArchitecture
 ```
 
 ----

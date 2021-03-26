@@ -4,7 +4,7 @@ Specifies why a player disconnected from the server.
 
 # Specifications
 
-```D
+```js
 enum SqPartReason
 ```
 

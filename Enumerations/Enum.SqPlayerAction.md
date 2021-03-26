@@ -4,7 +4,7 @@ Identifies a certain player action.
 
 # Specifications
 
-```D
+```js
 enum SqPlayerAction
 ```
 

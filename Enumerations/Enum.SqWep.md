@@ -4,7 +4,7 @@ Identifies weapons.
 
 # Specifications
 
-```D
+```js
 enum SqWep
 ```
 

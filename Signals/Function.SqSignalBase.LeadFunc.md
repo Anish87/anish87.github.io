@@ -5,11 +5,11 @@ Move all occurrences of a slot with a speciffic function to the front so they re
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.LeadFunc
 ```
 * **Signature**:
-```D
+```js
 (callback);
 (callback, one);
 (callback, one, append);

@@ -4,7 +4,7 @@ Identifies vehicle options that can be modified.
 
 # Specifications
 
-```D
+```js
 enum SqVehicleOption
 ```
 

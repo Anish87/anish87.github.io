@@ -4,7 +4,7 @@ Identifies player options that can be modified.
 
 # Specifications
 
-```D
+```js
 enum SqPlayerOption
 ```
 

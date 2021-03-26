@@ -4,7 +4,7 @@ Identifies the vehicle synchronization type.
 
 # Specifications
 
-```D
+```js
 enum SqVehicleSync
 ```
 

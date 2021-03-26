@@ -5,7 +5,7 @@ Check whether any slots were bound to a `SqSignalBase` insance.
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.Empty
 ```
 

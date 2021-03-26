@@ -5,11 +5,11 @@ Eliminate all occurrences of a speciffic environment.
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.EliminateThis
 ```
 * **Signature**:
-```D
+```js
 (environment);
 ```
 * **Parameters**:

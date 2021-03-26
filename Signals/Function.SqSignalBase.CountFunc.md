@@ -5,11 +5,11 @@ Count all occurrences of a speciffic function.
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.CountFunc
 ```
 * **Signature**:
-```D
+```js
 (callback);
 ```
 * **Parameters**:

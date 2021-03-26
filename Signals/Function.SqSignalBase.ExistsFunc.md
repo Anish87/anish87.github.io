@@ -5,11 +5,11 @@ Check if a slot with a speciffic callback was bound to the signal.
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.ExistsFunc
 ```
 * **Signature**:
-```D
+```js
 (callback);
 ```
 * **Parameters**:

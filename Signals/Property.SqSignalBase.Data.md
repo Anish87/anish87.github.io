@@ -5,7 +5,7 @@ Store any object alongside a particular `SqSignalBase` instance. The purpose of 
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.Data
 ```
 

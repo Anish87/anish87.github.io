@@ -4,7 +4,7 @@ Identifies ASCII characters.
 
 # Specifications
 
-```D
+```js
 enum SqWep
 ```
 

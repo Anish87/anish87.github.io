@@ -4,7 +4,7 @@ Identifies a certain player state.
 
 # Specifications
 
-```D
+```js
 enum SqPlayerState
 ```
 

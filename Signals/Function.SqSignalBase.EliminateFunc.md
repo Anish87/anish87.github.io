@@ -5,11 +5,11 @@ Remove all occurrences of a speciffic function.
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.EliminateFunc
 ```
 * **Signature**:
-```D
+```js
 (callback);
 ```
 * **Parameters**:

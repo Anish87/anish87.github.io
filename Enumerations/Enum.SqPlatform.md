@@ -4,7 +4,7 @@ Used to identify the platform that the plug-in currently running on. See [SqMod.
 
 # Specifications
 
-```D
+```js
 enum SqPlatform
 ```
 

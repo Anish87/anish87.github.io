@@ -4,7 +4,7 @@ Identifies types of errors occurred in the server.
 
 # Specifications
 
-```D
+```js
 enum SqServerError
 ```
 

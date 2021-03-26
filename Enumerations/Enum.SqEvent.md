@@ -4,7 +4,7 @@ Used to identify the available server events to which you can bind.
 
 # Specifications
 
-```D
+```js
 enum SqEvent
 ```
 

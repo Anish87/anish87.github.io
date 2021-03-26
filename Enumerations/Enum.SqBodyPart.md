@@ -4,7 +4,7 @@ Identifies a character body part. Mostly used to identify where the final blow o
 
 # Specifications
 
-```D
+```js
 enum SqBodyPart
 ```
 

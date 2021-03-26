@@ -5,7 +5,7 @@ The name given to a `SqSignalBase` insance.
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.Name
 ```
 

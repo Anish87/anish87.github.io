@@ -4,7 +4,7 @@ Identifies the world weather.
 
 # Specifications
 
-```D
+```js
 enum SqWeather
 ```
 

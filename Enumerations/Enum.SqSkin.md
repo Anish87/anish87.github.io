@@ -4,7 +4,7 @@ Identifies skin.
 
 # Specifications
 
-```D
+```js
 enum SqSkin
 ```
 

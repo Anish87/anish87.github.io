@@ -4,7 +4,7 @@ Identifies key-codes.
 
 # Specifications
 
-```D
+```js
 enum SqWep
 ```
 

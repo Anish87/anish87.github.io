@@ -4,7 +4,7 @@ Specifies which entity pool was updated.
 
 # Specifications
 
-```D
+```js
 enum SqEntityPool
 ```
 

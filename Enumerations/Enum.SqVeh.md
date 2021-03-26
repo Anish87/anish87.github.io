@@ -4,7 +4,7 @@ Identifies vehicles.
 
 # Specifications
 
-```D
+```js
 enum SqVeh
 ```
 

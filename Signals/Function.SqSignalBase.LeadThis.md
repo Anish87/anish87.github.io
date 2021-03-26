@@ -5,11 +5,11 @@ Move all occurrences of a slot with a speciffic environment to the front so they
 # Specifications
 
 * **Aliases**:
-```D
+```js
 SqSignalBase.LeadThis
 ```
 * **Signature**:
-```D
+```js
 (environment);
 (environment, one);
 (environment, one, append);
