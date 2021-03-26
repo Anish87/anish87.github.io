@@ -11,7 +11,7 @@ The VC:MP Squirrel Module is a plugin that can be loaded by the VC:MP server to 
 * [Entity Types](#entity-types)
 * [Entity Algorithms](#entity-algorithms)
 * [Modules](#modules)
-* [Misc Types](#misc-types)
+* [Misc Types](#miscellaneous-types)
 
 ---
 ## Constants
