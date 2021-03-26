@@ -44,26 +44,26 @@ The VC:MP Squirrel Module is a plugin that can be loaded by the VC:MP server to 
 
 ## Base Types
 
-* `class` [AABB](Class/Class.AABB)
-* `class` [Circle](Class/Class.Circle)
-* `class` [Color3](Class/Class.Color3)
-* `class` [Color4](Class/Class.Color4)
-* `class` [Quaternion](Class/Class.Quaternion)
-* `class` [Sphere](Class/Class.Sphere)
-* `class` [Vector2](Class/Class.Vector2)
-* `class` [Vector2i](Class/Class.Vector2i)
-* `class` [Vector3](Class/Class.Vector3)
-* `class` [Vector4](Class/Class.Vector4)
+* `class` [AABB](Classes/AABB)
+* `class` [Circle](Classes/Circle)
+* `class` [Color3](Classes/Color3)
+* `class` [Color4](Classes/Color4)
+* `class` [Quaternion](Classes/Quaternion)
+* `class` [Sphere](Classes/Sphere)
+* `class` [Vector2](Classes/Vector2)
+* `class` [Vector2i](Classes/Vector2i)
+* `class` [Vector3](Classes/Vector3)
+* `class` [Vector4](Classes/Vector4)
 
 ## Entity Types
 
-* `class` [SqBlip](Class/Class.SqBlip)
-* `class` [SqCheckpoint](Class/Class.SqCheckpoint)
-* `class` [SqKeybind](Class/Class.SqKeybind)
-* `class` [SqObject](Class/Class.SqObject)
-* `class` [SqPickup](Class/Class.SqPickup)
-* `class` [SqPlayer](Class/Class.SqPlayer)
-* `class` [SqVehicle](Class/Class.SqVehicle)
+* `class` [SqBlip](Classes/SqBlip)
+* `class` [SqCheckpoint](Classes/SqCheckpoint)
+* `class` [SqKeybind](Classes/SqKeybind)
+* `class` [SqObject](Classes/SqObject)
+* `class` [SqPickup](Classes/SqPickup)
+* `class` [SqPlayer](Classes/SqPlayer)
+* `class` [SqVehicle](Classes/SqVehicle)
 
 ## Entity Algorithms
 
@@ -79,4 +79,4 @@ The VC:MP Squirrel Module is a plugin that can be loaded by the VC:MP server to 
 
 ## Miscellaneous Types
 
-* `class` [SqSignalBase](Class/Class.SqSignalBase)
+* `class` [SqSignalBase](Classes/SqSignalBase)

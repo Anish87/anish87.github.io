@@ -10,18 +10,18 @@ Some snippets can be found [here](https://github.com/VCMP-SqMod/SqMod-Snippets/t
 
 ## Classes
 
-* `class` [Session](Class.SqData.Session)
-* `class` [Statement](Class.SqData.Statement)
-* `class` [RecordSet](Class.SqData.RecordSet)
-* `class` [SessionPool](Class.SqData.SessionPool)
+* `class` [Session](Classes/SqData.Session)
+* `class` [Statement](Classes/SqData.Statement)
+* `class` [RecordSet](Classes/SqData.RecordSet)
+* `class` [SessionPool](Classes/SqData.SessionPool)
 
 ## Data Bindings
 
-* `function` [IntBind](Function.SqData.IntBind)
-* `function` [FloatBind](Function.SqData.FloatBind)
-* `function` [StrBind](Function.SqData.StrBind)
-* `function` [BoolBind](Function.SqData.BoolBind)
+* `function` [IntBind](Functions/SqData.IntBind)
+* `function` [FloatBind](Functions/SqData.FloatBind)
+* `function` [StrBind](Functions/SqData.StrBind)
+* `function` [BoolBind](Functions/SqData.BoolBind)
 
 ## Member Methods
 
-* `function` [Process](Function.SqData.Process)
+* `function` [Process](Functions/SqData.Process)
