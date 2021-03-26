@@ -67,15 +67,15 @@ The VC:MP Squirrel Module is a plugin that can be loaded by the VC:MP server to 
 
 ## Entity Algorithms
 
-* `table` [SqCollect](Table.SqCollect)
-* `table` [SqFind](Table.SqFind)
-* `table` [SqForeach](Table.SqForeach)
-* `table` [SqForeachEx](Table.SqForeachEx)
-* `table` [SqCount](Table.SqCount)
+* `table` [SqCollect](Table/SqCollect)
+* `table` [SqFind](Table/SqFind)
+* `table` [SqForeach](Table/SqForeach)
+* `table` [SqForeachEx](Table/SqForeachEx)
+* `table` [SqCount](Table/SqCount)
 
 ## Modules
-* `table` SqData
-* `table` SqZMQ
+* `table` [SqData](Table/SqData)
+* `table` [SqZMQ](Table/SqZMQ)
 
 ## Miscellaneous Types
 
