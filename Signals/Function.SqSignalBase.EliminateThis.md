@@ -1,6 +1,6 @@
 # Description
 
-Eliminate all occurrences of a speciffic environment.
+Eliminate all occurrences of a specific environment.
 
 # Specifications
 

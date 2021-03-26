@@ -1,6 +1,6 @@
 # Description
 
-Move all occurrences of a speciffic slot to the back so they receive the signal last.
+Move all occurrences of a specific slot to the back so they receive the signal last.
 
 # Specifications
 

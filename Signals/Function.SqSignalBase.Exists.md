@@ -1,6 +1,6 @@
 # Description
 
-Check if a speciffic slot was bound to the signal.
+Check if a specific slot was bound to the signal.
 
 # Specifications
 

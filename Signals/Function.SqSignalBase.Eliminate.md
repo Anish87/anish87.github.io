@@ -1,6 +1,6 @@
 # Description
 
-Remove all occurrences of a speciffic slot.
+Remove all occurrences of a specific slot.
 
 # Specifications
 

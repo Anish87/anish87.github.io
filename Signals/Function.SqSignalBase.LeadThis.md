@@ -1,6 +1,6 @@
 # Description
 
-Move all occurrences of a slot with a speciffic environment to the front so they receive the signal first.
+Move all occurrences of a slot with a specific environment to the front so they receive the signal first.
 
 # Specifications
 

@@ -1,6 +1,6 @@
 # Description
 
-Check if a slot with a speciffic environment was bound to the signal.
+Check if a slot with a specific environment was bound to the signal.
 
 # Specifications
 

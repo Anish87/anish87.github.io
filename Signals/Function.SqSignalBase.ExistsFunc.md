@@ -1,6 +1,6 @@
 # Description
 
-Check if a slot with a speciffic callback was bound to the signal.
+Check if a slot with a specific callback was bound to the signal.
 
 # Specifications
 

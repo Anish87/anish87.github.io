@@ -1,6 +1,6 @@
 # Description
 
-Move all occurrences of a slot with a speciffic environment to the back so they receive the signal last.
+Move all occurrences of a slot with a specific environment to the back so they receive the signal last.
 
 # Specifications
 

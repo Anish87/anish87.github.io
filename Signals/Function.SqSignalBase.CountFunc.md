@@ -1,6 +1,6 @@
 # Description
 
-Count all occurrences of a speciffic function.
+Count all occurrences of a specific function.
 
 # Specifications
 

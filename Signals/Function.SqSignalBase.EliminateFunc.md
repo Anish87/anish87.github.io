@@ -1,6 +1,6 @@
 # Description
 
-Remove all occurrences of a speciffic function.
+Remove all occurrences of a specific function.
 
 # Specifications
 

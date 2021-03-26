@@ -1,6 +1,6 @@
 # Description
 
-Count all occurrences of a speciffic slot.
+Count all occurrences of a specific slot.
 
 # Specifications
 

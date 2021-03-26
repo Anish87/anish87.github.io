@@ -1,6 +1,6 @@
 # Description
 
-Count all occurrences of a speciffic environment.
+Count all occurrences of a specific environment.
 
 # Specifications
 
