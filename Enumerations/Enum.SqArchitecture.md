@@ -1,6 +1,6 @@
 # Introduction
 
-Used to identify the architecture that the plug-in currently running on. See [SqMod.Architecture](Enumerations/Enum.SqMod) for the current architecture and compare it to any of the elements in this enumeration.
+Used to identify the architecture that the plug-in currently running on. See [SqMod.Architecture](Enumerations/SqMod) for the current architecture and compare it to any of the elements in this enumeration.
 
 # Specifications
 

@@ -13,8 +13,8 @@ enum SqMod
 | **Failure** | `integer` | Failure value. Possible value is `0` |
 | **Unknown** | `integer` | Unknown value. Possible value is `-1` |
 | **Arch** | `integer` | Alias of `Architecture` |
-| **Architecture** | `integer` | Architecture identifier. See [SqArchitecture](Enumerations/Enum.SqArchitecture) |
-| **Platform** | `integer` | Platform identifier. See [SqPlatform](Enumerations/Enum.SqPlatform) |
+| **Architecture** | `integer` | Architecture identifier. See [SqArchitecture](Enumerations/SqArchitecture) |
+| **Platform** | `integer` | Platform identifier. See [SqPlatform](Enumerations/SqPlatform) |
 | **MinChar** | `integer` | Minimum value of a Squirrel character. Same as 8 bit ASCII characters. |
 | **MaxChar** | `integer` | Maximum value of a Squirrel character. Same as 8 bit ASCII characters. |
 | **MinAchar** | `integer` | Minimum value of an 8 bit signed integer. Possible value is `-128` |

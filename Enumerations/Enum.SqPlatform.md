@@ -1,6 +1,6 @@
 # Introduction
 
-Used to identify the platform that the plug-in currently running on. See [SqMod.Platform](Enumerations/Enum.SqMod) for the current platform and compare it to any of the elements in this enumeration.
+Used to identify the platform that the plug-in currently running on. See [SqMod.Platform](Enumerations/SqMod) for the current platform and compare it to any of the elements in this enumeration.
 
 # Specifications
 
