@@ -8,4 +8,4 @@ Used to deal with commands, but in a better and effective manner.
 
 ## Classes
 
-* `class` [Manager](../Classes/SqCmd.Manager)
+* `class` [Manager](../Classes/SqCmd/Manager)
