@@ -74,8 +74,8 @@ The VC:MP Squirrel Module is a plugin that can be loaded by the VC:MP server to 
 * `table` [SqCount](Table.SqCount)
 
 ## Modules
-* SqData
-* SqZMQ
+* `table` SqData
+* `table` SqZMQ
 
 ## Miscellaneous Types
 
