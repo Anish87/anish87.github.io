@@ -7,6 +7,6 @@ Used to represent a command manager instance in the game.
 * `class` SqCheckpoint
 
 ## Usage
-```squirrel
+```js
 cmdManager <- SqCmd.Manager();
 ```
