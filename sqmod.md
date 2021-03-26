@@ -7,11 +7,11 @@ The VC:MP Squirrel Module is a plugin that can be loaded by the VC:MP server to 
 
 ## Wiki Content
 * [Constants](#constants)
-* [Base Types]
-* [Entity Types]
-* [Entity Algorithms]
-* [Modules]
-* [Misc Types]
+* [Base Types](#base-types)
+* [Entity Types](#entity-types)
+* [Entity Algorithms](#entity-algorithms)
+* [Modules](#modules)
+* [Misc Types](#misc-types)
 
 ---
 ## Constants
@@ -42,4 +42,41 @@ The VC:MP Squirrel Module is a plugin that can be loaded by the VC:MP server to 
 * `enum` [SqKeyCode](Enum.SqKeyCode)
 * `enum` [SqASCII](Enum.SqASCII)
 
-----
+## Base Types
+
+* `class` [AABB](Class.AABB)
+* `class` [Circle](Class.Circle)
+* `class` [Color3](Class.Color3)
+* `class` [Color4](Class.Color4)
+* `class` [Quaternion](Class.Quaternion)
+* `class` [Sphere](Class.Sphere)
+* `class` [Vector2](Class.Vector2)
+* `class` [Vector2i](Class.Vector2i)
+* `class` [Vector3](Class.Vector3)
+* `class` [Vector4](Class.Vector4)
+
+## Entity Types
+
+* `class` [SqBlip](Class.SqBlip)
+* `class` [SqCheckpoint](Class.SqCheckpoint)
+* `class` [SqKeybind](Class.SqKeybind)
+* `class` [SqObject](Class.SqObject)
+* `class` [SqPickup](Class.SqPickup)
+* `class` [SqPlayer](Class.SqPlayer)
+* `class` [SqVehicle](Class.SqVehicle)
+
+## Entity Algorithms
+
+* `table` [SqCollect](Table.SqCollect)
+* `table` [SqFind](Table.SqFind)
+* `table` [SqForeach](Table.SqForeach)
+* `table` [SqForeachEx](Table.SqForeachEx)
+* `table` [SqCount](Table.SqCount)
+
+## Modules
+* SqData
+* SqZMQ
+
+## Miscellaneous Types
+
+* `class` [SqSignalBase](Class.SqSignalBase)
