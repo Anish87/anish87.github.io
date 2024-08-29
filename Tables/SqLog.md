@@ -4,10 +4,13 @@ SqMod's customised VC:MP Logger functions.
 
 ## Classes
 
-* `class` [Usr]
-* `class` [Dbg]
-* `class` [Scs]
-* `class` [Ftl]
-* `class` [Inf]
-* `class` [Err]
-* `class` [Wrn]
+* `function` SqLog.Usr(string)
+* `function` SqLog.Dbg(string)
+* `function` SqLog.Scs(string)
+* `function` SqLog.Inf(string)
+* `function` SqLog.Wrn(string)
+* `function` SqLog.Err(string)
+* `function` SqLog.Ftl(string)
+
+## Example (Screenshot)
+![SqLog-Screenshot](http://url/to/img.png)
